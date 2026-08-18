@@ -21,6 +21,27 @@ Sample Sites __ > Yahoo , Facebook , AI assistans <-- ( web 1.0 , 2.0 3.0)
 [---->>>>STATIC - - - - - pRINTTED bROCUCHERS Every HTML ,CSS WEB 2.visitors can see exactly the same content -- HCJ Someone Request a webpage without Modification they can send the ( Files sit on Server ... OOps Loaded ... Example Restartuant Menu - paper , All Get the same menu Identical Chef wants to change an Dish They Must Print Entirley new Menus ) to update the content ,developers edit them and reloaded)
 PROCESS Is straight Forward Developers Create the HTML CSS JS Files locally Files are then Uploaded to server or to hosting service (USER __ VISIT __ ASK FOR THE ___FILES REQUEST Server Immediately send the without any procesing what are the Files stord they can send Immediately 
 There is no anby DB Will InvolvedNo server side Processing no content Generation ----The only agian developers will to update the content Still it is a Identically  <<<]
-[---->>>>DYNAMIC - - - - - pRINTTED bROCUCHERS Every HTML ,CSS WEB 2.visitors can see exactly the same content -- HCJ Someone Request a webpage without Modification they can send the ( Files sit on Server ... OOps Loaded ... Example Restartuant Menu - paper , All Get the same menu Identical Chef wants to change an Dish They Must Print Entirley new Menus ) to update the content ,developers edit them and reloaded)
-PROCESS Is straight Forward Developers Create the HTML CSS JS Files locally Files are then Uploaded to server or to hosting service (USER __ VISIT __ ASK FOR THE ___FILES REQUEST Server Immediately send the without any procesing what are the Files stord they can send Immediately 
-There is no anby DB Will InvolvedNo server side Processing no content Generation ----The only agian developers will to update the content Still it is a Identically  <<<]
+[---->>>>DYNAMIC - - - - - CUstomizABLE Menus customizing it for the individual customer  <<<]
+-|Content - Same for all Users (S)   / Personalized Per User (D)
+-|Manual Editing (S) / Automatic From DB (D) 
+-|HCJ ONLY / Server Side Languages + DB 
+-|Very FAst Loading / Slight Slower due to ON Processing 
+-|Pros and cons Pros - P Cons - C for Static 
+-|    __---__---___ ( Blazing Fast Performance (m) HIgh relabile (m) lower Hosting Costs (m) Better SEo make use of Simple Deployments ||| -- |||  ) __---___----____ (S)
+-|    __---__---___ ( Manual content updates (m)  No user personalization (m)    Limited interactivity (m) No real-time content (m) Fewer Vulnerable __---___----____ (C)
+-|Pros and cons Pros - P Cons - C for Dynamic 
+-|    __---__---___ ( Personalized experiences  (m) Data-driven decisionst (m) Search and filtering  (m) Collaboration features  ||| -- |||  ) __---___----____ (S)
+-|    __---__---___ ( Slower performance (m) Higher hosting costs  (m) Security vulnerabilities (m) Harder to scale(m) No real-time content (m) Fewer Vulnerable __---___----____ (C)
+-|        
+-|
+-|
+-|
+-|
+-|
+-|
+-|
+-|
+-|
+-|
+-|
+-|
