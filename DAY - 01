@@ -1,3 +1,6 @@
+Hey beginners Let explore the --(VALIDATE PATH OF LEARNING IN BREATH )-- NOTE : HERE HTML ,CSS, JS AS HCJ  
+~>>(TOPICS - @) ,( Heading - $ ) Explanation - + 
+------------------------------------------------------INTRODUCTION--------------------------------------------------------------
 WWW - World wide web - 1989 ,Tim Berners-Lee at CERN created the WWW { Help to share Infromation }
 The First Website Launch Live on Internet Live in August 1991 It will containig The Simple Text and the Hyperlinks
 Web 1.0 --> The earliest Phase of web -( ROW read only web ) Example Library (only Read no to Write )This are Built using the Basic Html and they displayed as static Like Yahoo older days amazon are presented like these infomrsitons 
@@ -14,3 +17,10 @@ COmpare to this all WEB ! - #
 Technologys _ ==> (HTML ,CSS WEB 1.0),(AJAX ,APIs 2.0), (AI ,BlockChian ,Semantic 3.0 ) 
 Data COntrol > 1.0 - website Owners ___ Platform COmpanies ___ Individual users 
 Sample Sites __ > Yahoo , Facebook , AI assistans <-- ( web 1.0 , 2.0 3.0)
+-------------------------------------------------STATIC VS DYNAMIC ------------------------------------------------------------
+[---->>>>STATIC - - - - - pRINTTED bROCUCHERS Every HTML ,CSS WEB 2.visitors can see exactly the same content -- HCJ Someone Request a webpage without Modification they can send the ( Files sit on Server ... OOps Loaded ... Example Restartuant Menu - paper , All Get the same menu Identical Chef wants to change an Dish They Must Print Entirley new Menus ) to update the content ,developers edit them and reloaded)
+PROCESS Is straight Forward Developers Create the HTML CSS JS Files locally Files are then Uploaded to server or to hosting service (USER __ VISIT __ ASK FOR THE ___FILES REQUEST Server Immediately send the without any procesing what are the Files stord they can send Immediately 
+There is no anby DB Will InvolvedNo server side Processing no content Generation ----The only agian developers will to update the content Still it is a Identically  <<<]
+[---->>>>DYNAMIC - - - - - pRINTTED bROCUCHERS Every HTML ,CSS WEB 2.visitors can see exactly the same content -- HCJ Someone Request a webpage without Modification they can send the ( Files sit on Server ... OOps Loaded ... Example Restartuant Menu - paper , All Get the same menu Identical Chef wants to change an Dish They Must Print Entirley new Menus ) to update the content ,developers edit them and reloaded)
+PROCESS Is straight Forward Developers Create the HTML CSS JS Files locally Files are then Uploaded to server or to hosting service (USER __ VISIT __ ASK FOR THE ___FILES REQUEST Server Immediately send the without any procesing what are the Files stord they can send Immediately 
+There is no anby DB Will InvolvedNo server side Processing no content Generation ----The only agian developers will to update the content Still it is a Identically  <<<]
