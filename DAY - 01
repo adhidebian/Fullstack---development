@@ -32,16 +32,7 @@ There is no anby DB Will InvolvedNo server side Processing no content Generation
 -|Pros and cons Pros - P Cons - C for Dynamic 
 -|    __---__---___ ( Personalized experiences  (m) Data-driven decisionst (m) Search and filtering  (m) Collaboration features  ||| -- |||  ) __---___----____ (S)
 -|    __---__---___ ( Slower performance (m) Higher hosting costs  (m) Security vulnerabilities (m) Harder to scale(m) No real-time content (m) Fewer Vulnerable __---___----____ (C)
--|        
--|
--|
--|
--|
--|
--|
--|
--|
--|
--|
--|
--|
+ WEB developer Could do In Three Ways --- FB#F
+1.Frontend Development - In here User can see and Interact with an webiste - Developers Must create an Visual Interfaces And UI | UX
+2.Backend Development  - It Build the sever side LOgic DB and syu and own webistes 
+1&2 Fullstack it combines the Both areas CLick an Btn , Fill the Form scroll 
